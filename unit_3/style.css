@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Istok+Web');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+
+body {
+	background-image: url('http://i.imgur.com/9ZDtKXH.jpg') no-repeat fixed center; 
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Istok Web', serif;
+	color: #FFFFFF;
+}
+
+p {
+	text-align: center;
+	font-family: 'Lora', sans-serif;
+}
