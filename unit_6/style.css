@@ -38,6 +38,7 @@ article {
 }
 
 #left {
+<<<<<<< HEAD
     background-color: violet;
     border: 1px black solid;
     padding: 0 20px 0 20px;
@@ -60,6 +61,17 @@ article {
     content: " ";
     clear: both;
     height: 0;
+=======
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+>>>>>>> origin/master
 }
 
 footer {
